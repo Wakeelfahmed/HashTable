@@ -1,0 +1,37 @@
+Operation: Addition
+Employee Name: Bower, Adam
+Hash Value: 10
+Bucket 0: 10
+Operation: Addition
+Employee Name: Hudson, Carol
+Hash Value: 2
+Bucket 0: 2
+Operation: Addition
+Employee Name: Mackay, Molly
+Hash Value: 15
+Bucket 0: 15
+Operation: Addition
+Employee Name: Davidson, Lily
+Hash Value: 12
+Bucket 0: 12
+Operation: Addition
+Employee Name: Paige, Sebastian
+Hash Value: 10
+Bucket 0: 10
+Bucket 1: 11
+Operation: Addition
+Employee Name: McLean, Leonard
+Hash Value: 11
+Bucket 0: 11
+Bucket 1: 12
+Bucket 2: 15
+Bucket 3: 4
+Operation: Addition
+Employee Name: MacDonald, Connor
+Hash Value: 8
+Bucket 0: 8
+Operation: Addition
+Employee Name: Wakeel
+Hash Value: 11
+Bucket 0: 11
+Bucket 1: 12

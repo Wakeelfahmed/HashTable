@@ -1,37 +1,55 @@
 Operation: Addition
-Employee Name: Bower, Adam
-Hash Value: 10
-Bucket 0: 10
+Employee Name: John, Doe
+Hash Value: 5
+Bucket 0: 5
 Operation: Addition
-Employee Name: Hudson, Carol
-Hash Value: 2
-Bucket 0: 2
+Employee Name: Jane, Smith
+Hash Value: 5
+Bucket 0: 5
+Bucket 1: 6
 Operation: Addition
-Employee Name: Mackay, Molly
-Hash Value: 15
-Bucket 0: 15
+Employee Name: Alice, Johnson
+Hash Value: 4
+Bucket 0: 4
+Operation: remove
+Employee Name: Alice, Johnson
+Hash Value: 4
 Operation: Addition
-Employee Name: Davidson, Lily
-Hash Value: 12
-Bucket 0: 12
+Employee Name: Alice, Johnson
+Hash Value: 4
+Bucket 0: 4
 Operation: Addition
-Employee Name: Paige, Sebastian
-Hash Value: 10
-Bucket 0: 10
-Bucket 1: 11
+Employee Name: John, Doe
+Hash Value: 0
+Bucket 0: 0
 Operation: Addition
-Employee Name: McLean, Leonard
-Hash Value: 11
-Bucket 0: 11
-Bucket 1: 12
-Bucket 2: 15
-Bucket 3: 4
+Employee Name: Jane, Smith
+Hash Value: 0
+Bucket 0: 0
+Bucket 1: 1
 Operation: Addition
-Employee Name: MacDonald, Connor
-Hash Value: 8
-Bucket 0: 8
+Employee Name: Alice, Johnson
+Hash Value: 4
+Bucket 0: 4
 Operation: Addition
-Employee Name: Wakeel
-Hash Value: 11
-Bucket 0: 11
-Bucket 1: 12
+Employee Name: Bob, Brown
+Hash Value: 1
+Bucket 0: 1
+Operation: Addition
+Employee Name: John, Doe
+Hash Value: 0
+Bucket 0: 0
+Operation: Addition
+Employee Name: Jane, Smith
+Hash Value: 0
+Bucket 0: 0
+Bucket 1: 1
+Operation: Addition
+Employee Name: Jill, Doe
+Hash Value: 1
+Bucket 0: 1
+Bucket 1: 2
+Operation: Addition
+Employee Name: Alice, Johnson
+Hash Value: 3
+Bucket 0: 3

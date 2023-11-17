@@ -105,7 +105,7 @@ public class COMPCW12023 {
 
             } // switch
                     System.out.println();
-                    System.out.print("D)isplay  P)ut  G)et  C)ontains  S)ize  R)emove  Q)uit? ");
+                    System.out.print("D)isplay  P)ut  G)et  C)ontains  T)Test S)ize  R)emove  Q)uit? ");
             option = readNonEmpty();
         } // while
     }
@@ -155,6 +155,7 @@ public class COMPCW12023 {
             if (file != null) {
                 FileInputStream streamIn = new FileInputStream(file);
                 text = new Scanner(streamIn);
+                int i = 0;
                 while (text.hasNextLine()) {
                     String line = text.nextLine();
                     String[] parts = line.split(cvsSplitBy);
@@ -163,6 +164,10 @@ public class COMPCW12023 {
                     String affiliation = parts[2].trim();
                     employee = new Employee(surname + ", " + firstNames, affiliation);
                     db.put(employee);
+
+                    if(i == 237)
+                        System.out.println("g");
+                    i++;
                 }
                 text.close();
             }
